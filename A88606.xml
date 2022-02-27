@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the Lamentation of Cheap-side Crosse. Together with the reasons why so many doe desire the downfall of it, and all such popish reliques. Also the downfall of Antichrist. By Samuel Lovedeay.</title>
+            <author>Loveday, Samuel, 1619-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88606</idno>
+            <idno type="STC">Wing L3232</idno>
+            <idno type="STC">Thomason E135_22</idno>
+            <idno type="STC">ESTC R19606</idno>
+            <idno type="EEBO-CITATION">99860703</idno>
+            <idno type="PROQUEST">99860703</idno>
+            <idno type="VID">156442</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88606)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156442)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E135[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the Lamentation of Cheap-side Crosse. Together with the reasons why so many doe desire the downfall of it, and all such popish reliques. Also the downfall of Antichrist. By Samuel Lovedeay.</title>
+                  <author>Loveday, Samuel, 1619-1677.</author>
+               </titleStmt>
+               <extent>[2], 6 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title page woodcut.</note>
+                  <note>The "Answer" and the "Downfall of Antichrist" are in verse.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  England --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century.</term>
+               <term>Cheapside Cross (London, England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156442:1"/>
+            <!-- PDF PAGE 100 -->
+            <pb facs="tcp:156442:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 100 -->
+            <p>An Anſwer to the Lamenta<g ref="char:EOLhyphen"/>tion of <hi>Cheap-ſide Croſſe.</hi> Together with the Reaſons why ſo many doe deſire the downfall of it, and all ſuch Popiſh Reliques. Alſo the downfall of Antichriſt.</p>
+            <p>By <hi>Samuel Lovedeay.</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>London,</hi> Printed for <hi>T. A.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:156442:2"/>
+            <!-- PDF PAGE 101 -->
+            <pb facs="tcp:156442:2"/>
+            <!-- PDF PAGE 101 -->
+            <head>The Reaſons why ſo ma<g ref="char:EOLhyphen"/>ny deſire the downfall of Cheap<g ref="char:EOLhyphen"/>ſide-Croſſe, and all ſuch like Po<g ref="char:EOLhyphen"/>piſh Reliques.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as ſome have undertaken to oppoſe (by word and deed) ſuch as de<g ref="char:EOLhyphen"/>ſired the aboliſhing of al Images, more eſpecially, that of Cheapſide-croſſe, ſhe<g ref="char:EOLhyphen"/>wing that it is an ornament to the Ci<g ref="char:EOLhyphen"/>ty, and of antiquity, which reaſons are of no great conſequence: We deſire to give you ſome Reaſons why wee deſire the extirpation of it and all ſuch like.</p>
+            <p n="1">1. Becauſe it is in its own nature a monument of Idolatry, and may ſute wel with an idolatrous place, and may be com<g ref="char:EOLhyphen"/>pared to <hi>Dagon,</hi> ſpoken of in 1. <hi>Sam.</hi> 5. and the beginning, which when the Arke came nere he fell downe flat. Inti<g ref="char:EOLhyphen"/>mating unto us that whereſoever the Arke of God comes all Idols and idolatry muſt be done away: now we have great cauſe to hope that our Arke is comming home againe which the Philiſtin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s have ſo long kept from us, and therefore good reaſon dumb idols ſhould fall before him.</p>
+            <p n="2">2. From Gods command in <hi>Exod.</hi> 20. twice repeated in that Chapter, aand flatly forbidden, that wee ſhould not make any graven Image in the 23. verſe of that Chapter.</p>
+            <p>And in the 27. of <hi>Deutrinomy</hi> and the 15. verſe, Therr is a curſe pronounced againſt him that ſhould make any Image, and ſo in <hi>Exod.</hi> 32. How the wrath of God broke out upon for this ſin, and how he plagued them in the laſt verſe them of that Chapter.</p>
+            <p>
+               <pb facs="tcp:156442:3"/>
+               <!-- PDF PAGE 102 -->A Third Reaſon may bee drawn from the men that ſtand for them, upholding of them in their lives and converſa<g ref="char:EOLhyphen"/>tions, according to Gods Word, the world ſaith our Savi<g ref="char:EOLhyphen"/>our loves his owne.</p>
+            <p>It is prone to our natures to deſire a Viſible God, we can<g ref="char:EOLhyphen"/>not endure to ſerve a God inviſible. Therefore we may bee eaſily drawne to Idolatry.</p>
+            <p>The fourth Reaſon may be drawne from the unſutablenes of them to this City, a place of ſo much preaching of Gods Word. If <hi>Solomon</hi> deſcribes the attire of an Harlot to bee anſwerable to her perſon, why not the attire of Idolatry to Idolatrous places, and of <hi>Paul</hi> in the 5. to the <hi>Phillippians,</hi> Sayed, have not covetouſneſſe nor fornication once named among them as become Saints, then let not the leaſt thought of Popery be ſeene among us as becomes Proteſtants.</p>
+            <p>The fifth reaſon is drawne from our Nationall Proteſtati<g ref="char:EOLhyphen"/>on, We deſire it may be abolliſhed, otherwiſe we ſhall bee gu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lty of breaches of Covenant, if we doe not endeavour to ſuppreſſe and alſo to abandon all Popery and Popiſh Innova<g ref="char:EOLhyphen"/>ons.</p>
+            <p>The ſixt Reaſon may be drawn from the evil conſequence of its ſtill continuing both to our ſelves and others,</p>
+            <p>Firſt to our ſelves, it will bee ſmoake to our eyes, and thornes in our conſciences, while they remaine amongſt us, it will alſo ſcandalize our pure profesſion of Religion.</p>
+            <p>Secondly prejudiciall to others, it wil be an occaſion to keepe them from comming in to looke for Chriſt in an in<g ref="char:EOLhyphen"/>viſible way ſo long as they ſee him in a viſible, it is credibly reported that ſome have beene ſent to worſhip that Croſſe.</p>
+            <p>Therefore you that plead for it, your grounds cannot be good, it is a fitter ornament for <hi>Rome</hi> or ſome ſuch place (I meane whilſt the Image and Croſſe remaine on it) then for this City. All which had their aimes and originals from <hi>Rome,</hi> all Croſſings and ſuch like, they may ſtand with a non-Reformid Nation. Yet I do not ſay that it is ſo fit for e<g ref="char:EOLhyphen"/>very one to pull them downe, but them them in authority as thanks be to God the Parliament have took it into conſide<g ref="char:EOLhyphen"/>ration, and commanded that all in Churches ſhould down, and ſo now alſo the reſt, for which happy Parliament let our prayers and praiſes be continued to God alwayes.</p>
+            <closer>
+               <signed>Yours. <hi>Samuel Loveday.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:156442:3"/>
+            <!-- PDF PAGE 102 -->
+            <head>An anſwer to the Lamen<g ref="char:EOLhyphen"/>tation of <hi>Cheap-ſide Croſſe.</hi>
+            </head>
+            <lg>
+               <l>OLD <hi>Iaſpar Croſſe</hi> of late was wrong'd,</l>
+               <l>As I did heare one ſay,</l>
+               <l>A baſe affront to him was gi'n</l>
+               <l>Upon the Kings high way.</l>
+            </lg>
+            <lg>
+               <l>For which his friends doe much lament,</l>
+               <l>They writ a dolefull Theame,</l>
+               <l>It grieves them much they cannot find</l>
+               <l>Who did this hurt to him.</l>
+            </lg>
+            <lg>
+               <l>They blame the Browniſts and ſuch like,</l>
+               <l>That did him ſo abuſe,</l>
+               <l>But ſure I think they cannot tell,</l>
+               <l>However they may muſe.</l>
+            </lg>
+            <lg>
+               <l>Yet ſome they free, which I miſtruſt,</l>
+               <l>To be his mortall foes,</l>
+               <l>Their names I need not now relate,</l>
+               <l>You know them by their cloathes.</l>
+            </lg>
+            <lg>
+               <l>But chiefely by their linnen ſleeves,</l>
+               <l>Which thing doth make me muſe,</l>
+               <l>That they ſhould goe in tyre ſo like</l>
+               <l>To that which <hi>Gregory</hi> uſe.</l>
+            </lg>
+            <lg>
+               <l>But you may know them by their works,</l>
+               <l>As well as by their cloathes:</l>
+               <l>If eares they lack you may conclude,</l>
+               <l>The Biſhop were his foes.</l>
+            </lg>
+            <lg>
+               <l>But <hi>Iaſpers</hi> griefe is for his noſe,</l>
+               <l>His leg and eke his arme:</l>
+               <l>As for his Eares, he ſayes nothing</l>
+               <l>He thinks they had no harme.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:156442:4"/>
+               <!-- PDF PAGE 103 -->
+               <l>But one thing grieves his lovers well,</l>
+               <l>Which thing I muſt not keep:</l>
+               <l>The deed was done as they ſuppoſe,</l>
+               <l>When he was faſt aſleep.</l>
+            </lg>
+            <lg>
+               <l>For had he been awake, tis ſure</l>
+               <l>His ſtrength was not ſo ſmall,</l>
+               <l>That he ſhould ſuffer ſuch abuſe,</l>
+               <l>And not for helpe to call.</l>
+            </lg>
+            <lg>
+               <l>A Coward ſure he muſt not be,</l>
+               <l>That is for your diſgrace:</l>
+               <l>Who are his friends and take his part</l>
+               <l>Againſt his enemies face.</l>
+            </lg>
+            <lg>
+               <l>But pray call back, the perſon that</l>
+               <l>Did act this Tragedie,</l>
+               <l>No bloud he ſhed in all he did,</l>
+               <l>There is no cauſe to flie.</l>
+            </lg>
+            <lg>
+               <l>Old <hi>Charing-Croſſe</hi> has loſt its head,</l>
+               <l>And ſo't may be your feare,</l>
+               <l>That <hi>Iaſpers</hi> noddle would be gone</l>
+               <l>But for the watch-mans care.</l>
+            </lg>
+            <lg>
+               <l>His caſe is bad, but to conclude,</l>
+               <l>If <hi>Iaſper</hi> for me ſend,</l>
+               <l>When he aſſaulted is againe,</l>
+               <l>No helpe to him Ile lend.</l>
+            </lg>
+            <lg>
+               <l>Becauſe of that which here I add,</l>
+               <l>To aggravate your feares,</l>
+               <l>Such lamentation was not heard</l>
+               <l>When Good-men loſt their eares.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="5" facs="tcp:156442:4"/>
+            <!-- PDF PAGE 103 -->
+            <head>The Doctors Iudgement upon his Diſeaſe.</head>
+            <p>THE aforeſaid <hi>Iaſper</hi> having ſufferd much by loſſe of his Members from his body, your delayes of reliefe have proved very prejudiciall to his health: for being (as I ſuppoſe put into a heat by that ſuddaine incounter, and then being expoſed to the violence of the weather, and a cold piercing into his bodie through the open Pores, and not bleeding currantly, I feare it feſters inwardly, whereby ma<g ref="char:EOLhyphen"/>ny radicall humours are congealed therein, that in reſpect of his age, his diſeaſe (occaſioned by their delayes, and obnoxi<g ref="char:EOLhyphen"/>ous) will prove very deſperately uncutable, without one medicine can bee procured to apply to him, and that is a Parliamentarie Playſter, as a preſervative of his life. You doe well to watch with him and pray to him, and comfort him as well is you can. Onely uſe ſuch medicines as may preſerve his preſent life: for as yet the obſtructions cannot be removed: if you pleaſe you may give him a vomit, and applie a playſter to his ſores.</p>
+         </div>
+         <div type="poem">
+            <head>The downfall of Antichriſt.</head>
+            <l>DEare Chriſtians, unto whom I write theſe lines,</l>
+            <l>I doubt not much but that theſe are the times,</l>
+            <l>When Antichriſt, according to the Scripture,</l>
+            <l>Muſt yield himſelfe to Ieſus Chriſt his Scepture:</l>
+            <l>Though he long time hath ſate in Regall Throne,</l>
+            <l>Iudging the earth, as none but him alone.</l>
+            <l>Yet now he muſt be made to lick the duſt,</l>
+            <l>That alwayes hath ſo terrifi'd the juſt.</l>
+            <l>
+               <pb n="6" facs="tcp:156442:5"/>
+               <!-- PDF PAGE 104 -->His Kingdome now we ſee doth much decline,</l>
+            <l>The downfall of the Biſhops is a ſigne,</l>
+            <l>Though they did plot, as they will till they live,</l>
+            <l>Yet nothing hitherto we ſee doth thrive.</l>
+            <l>The Lord doth foole them like <hi>Achitophel,</hi>
+            </l>
+            <l>That never yet theſe men could have their will.</l>
+            <l>Therefore we now muſt needs confeſſe and ſay,</l>
+            <l>The Romiſh Kingdome greatly doth decay.</l>
+            <l>But this you ſay is hard for to believe,</l>
+            <l>Becauſe in <hi>Ireland</hi> he the Saints doth grieve,</l>
+            <l>Expoſing them to death and cruell paine,</l>
+            <l>And they not able for to turne againe;</l>
+            <l>But there they lye imbrued in their bloud,</l>
+            <l>Which doth the adverſe part, we know much good.</l>
+            <l>Yet unto them this eager thirſt of bloud,</l>
+            <l>Can be a ſigne of but a little good.</l>
+            <l>It is a ſigne they poyſoned were before,</l>
+            <l>Which to their hurt doth make them drinke the more,</l>
+            <l>When they were in their greateſt height of pride,</l>
+            <l>The Lord from heaven wil their work deride,</l>
+            <l>And ſtrike them, as he did King <hi>Pharaoh't</hi> hoſt,</l>
+            <l>That they ſhall goe but ſlow, that now ſo poſt.</l>
+            <l>The Lord to England has beene good alwayes,</l>
+            <l>But moſt of all in theſe our latter dayes,</l>
+            <l>By calling firſt ſo good a Parliament,</l>
+            <l>Which ſtill the foes ſo much doth circumvent,</l>
+            <l>The Papiſhes have laboured might and maine</l>
+            <l>To cut them off but all was but in vaine.</l>
+            <l>The prayers of the Saints have ſo prevail'd,</l>
+            <l>That hitherto we ſee they have not quail'd,</l>
+            <l>Yet let not England think their ſins are leſſe,</l>
+            <l>Than Irelands ſins, becauſe of their diſtreſſe:</l>
+            <l>For then the Lord may juſtly make us know,</l>
+            <l>That we deſerve as much, though he be ſlow.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
